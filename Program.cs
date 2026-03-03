@@ -10,6 +10,9 @@ namespace Commint
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Commint");
+            Console.WriteLine("Prueba nueva");
+            Console.WriteLine("Prueba real");
         }
     }
 }
